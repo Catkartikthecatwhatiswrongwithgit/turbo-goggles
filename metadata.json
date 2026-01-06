@@ -1,0 +1,7 @@
+{
+  "name": "Leo - Your Empathetic Assistant",
+  "description": "A sleek, supportive virtual assistant named Leo featuring a black and red aesthetic, animated avatar, and voice synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
